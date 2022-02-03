@@ -1,4 +1,6 @@
 {
-  "https://digimoncard.io/api-public/search.php?pack=BT-09:%20Booster%20X%20Record",
-  "https://digimoncard.io/api-public/search.php?pack=Digital%20Hazard%20EX-02"
+   "urls":[
+      "https://digimoncard.io/api-public/search.php?pack=BT-09:%20Booster%20X%20Record",
+      "https://digimoncard.io/api-public/search.php?pack=Digital%20Hazard%20EX-02"
+   ]
 }
